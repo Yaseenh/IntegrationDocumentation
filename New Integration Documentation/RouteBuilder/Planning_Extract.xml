@@ -1,0 +1,55 @@
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Actions>
+		<Action>
+		<Id>70/INV6398</Id>
+		<Reference>INV6398</Reference>
+		<ClientId>70</ClientId>
+		<CustomerReference />
+		<InternalReference />
+		<ActionTypeId />
+		<ActionTypeName />
+		<ShipTo>
+			<Id>70/entity/BER35</Id>
+			<Name>Entity Name</Name>
+			<Reference>BER35</Reference>
+		</ShipTo>
+		<SellTo>
+			<Id>70/entity/BER35</Id>
+			<Name>Entity Name</Name>
+			<Reference>BER35</Reference>
+		</SellTo>
+		<Location>
+			<Id>70/BER35/-2</Id>
+			<Reference>BER35</Reference>
+			<Position>
+				<latitude>0</latitude>
+				<longitude>0</longitude>
+			</Position>
+			<Address>
+				<UnitNo />
+				<BuildingName />
+				<StreetNo>52 7TH AVE</StreetNo>
+				<SubDivisionNumber />
+				<Street>HIGHLANDS NORTH</Street>
+				<Suburb></Suburb>
+				<City></City>
+				<Province></Province>
+				<PostalCode />
+				<MapCode />
+			</Address>
+		</Location>
+		<Metrics>
+			<Weight>0</Weight>
+			<Pieces>5</Pieces>
+			<Pallets>0</Pallets>
+			<VolumetricMass>0</VolumetricMass>
+			<AmountEx>689.74</AmountEx>
+			<AmountIncl>786.3</AmountIncl>
+		</Metrics>
+		<ExpectedDelivery>2016-04-17T22:00:00Z</ExpectedDelivery>
+		<ReceivedOn>2016-04-20T13:11:24.4228918Z</ReceivedOn>
+		<Direction>0</Direction>
+		</Action>
+	</Actions>

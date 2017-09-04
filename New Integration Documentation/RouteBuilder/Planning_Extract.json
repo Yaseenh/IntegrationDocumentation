@@ -1,0 +1,51 @@
+{
+  "Actions": [
+    {
+      "Id": "70/INV6398",
+      "Reference": "INV6398",
+      "ClientId": "70",
+      "CustomerReference": null,
+      "InternalReference": null,
+      "ActionTypeId": null,
+      "ActionTypeName": null,
+      "Entity": {
+        "Id": "70/entity/BER35",
+        "Name": "Entity Name",
+        "Reference": "BER35",
+        "Mst": "00:30:00",
+        "Deco": {
+          "Id": "70/BER35/-2",
+          "Name": "Deco Name",
+          "Reference": "BER35",
+          "Position": [
+            0.0,
+            0.0
+          ],
+          "Address": {
+            "UnitNo": null,
+            "BuildingName": null,
+            "StreetNo": "52 7TH AVE",
+            "SubDivisionNumber": null,
+            "Street": "HIGHLANDS NORTH",
+            "Suburb": "",
+            "City": "",
+            "Province": "",
+            "PostalCode": null,
+            "MapCode": null
+          }
+        }
+      },
+      "Metrics": {
+        "Weight": 0.0,
+        "Pieces": 5,
+        "Pallets": 0,
+        "VolumetricMass": 0.0,
+        "AmountEx": 689.74,
+        "AmountIncl": 786.3
+      },
+      "ExpectedDelivery": "2016-04-17T22:00:00Z",
+      "ReceivedOn": "2016-04-20T13:11:24.4228918Z",
+      "Direction": 0
+    }
+  ]
+}

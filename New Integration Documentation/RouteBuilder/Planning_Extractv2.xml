@@ -1,0 +1,47 @@
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Actions>
+		<Action>
+        <ActionReference>INV6398</ActionReference>
+        <ActionTypeName>Delivery</ActionTypeName>
+        <CustomerReference>Picking10001</CustomerReference>
+        <ExpectedDelivery>2017-08-30T00:00:00</ExpectedDelivery>
+        <InternalReference>INV6398</InternalReference>
+        <Location>
+          <Address>
+            <BuildingName xsi:nil="true" />
+            <City>-</City>
+            <MapCode xsi:nil="true" />
+            <PostalCode>1559</PostalCode>
+            <Province xsi:nil="true" />
+            <Street>1 TEST STREET</Street>
+            <StreetNo xsi:nil="true" />
+            <SubDivisionNumber xsi:nil="true" />
+            <Suburb>SPRINGS</Suburb>
+            <UnitNo xsi:nil="true" />
+          </Address>
+          <Position>
+            <Latitude>45.5084464</Latitude>
+            <Longitude>-12.6950918</Longitude>
+          </Position>
+          <Reference xsi:nil="true" />
+        </Location>
+        <Metrics>
+          <AmountEx>0</AmountEx>
+          <AmountIncl>0</AmountIncl>
+          <Pallets>1</Pallets>
+          <Pieces>5</Pieces>
+          <VolumetricMass>0</VolumetricMass>
+          <Weight>15</Weight>
+        </Metrics>
+        <SellTo>
+          <Name>Spar Warehouose<Name>
+          <Reference>Picking10001</Reference>
+        </SellTo>
+        <ShipTo>
+          <Name>Sapr springs</Name>
+          <Reference>157375</Reference>
+        </ShipTo>
+		</Action>
+	</Actions>

@@ -1,0 +1,51 @@
+{
+  "Actions": [
+    {
+      "Id": "",
+      "Reference": "",
+      "ClientId": "",
+      "CustomerReference": null,
+      "InternalReference": null,
+      "ActionTypeId": null,
+      "ActionTypeName": null,
+      "Entity": {
+        "Id": "",
+        "Name": "",
+        "Reference": "",
+        "Mst": "00:00:00",
+        "Deco": {
+          "Id": "",
+          "Name": "",
+          "Reference": "",
+          "Position": [
+            0.0,
+            0.0
+          ],
+          "Address": {
+            "UnitNo": null,
+            "BuildingName": null,
+            "StreetNo": "",
+            "SubDivisionNumber": null,
+            "Street": "",
+            "Suburb": "",
+            "City": "",
+            "Province": "",
+            "PostalCode": null,
+            "MapCode": null
+          }
+        }
+      },
+      "Metrics": {
+        "Weight": 0.0,
+        "Pieces": 0,
+        "Pallets": 0,
+        "VolumetricMass": 0.0,
+        "AmountEx": 0.0,
+        "AmountIncl": 0.0
+      },
+      "ExpectedDelivery": "",
+      "ReceivedOn":"" ,
+      "Direction": 0
+    }
+  ]
+}

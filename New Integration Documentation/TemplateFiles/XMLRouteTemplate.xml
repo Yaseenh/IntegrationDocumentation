@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Route xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RouteName>Zone02</RouteName>
+  <Sequence>1</Sequence>
+  <StartTime>2017-06-21T12:11:39.6306112+02:00</StartTime>
+  <StartDate>2017-06-21T12:11:39.6306112+02:00</StartDate>
+  <ReferenceNo>123</ReferenceNo>
+  <VehicleRegistration>FZ06MY GP</VehicleRegistration>
+  <DriverName>Freddy</DriverName>
+  <Customers>
+    <Customer>
+      <DecoName>Townsview Mall</DecoName>
+      <CustomerName>Spar</CustomerName>
+      <MaximumStopTime />
+      <CellNo>0113647894</CellNo>
+      <Email>example@email.co.za</Email>
+      <CustomerReference>spar5165516</CustomerReference>
+      <CustomerCode>440336</CustomerCode>
+      <IsOnceOffDelivery>false</IsOnceOffDelivery>
+      <Address>
+        <UnitNo>7</UnitNo>
+        <BuildingName>Townsview Mall</BuildingName>
+        <StreetNo>51</StreetNo>
+        <SubdivisionNo />
+        <Street>Rose Street</Street>
+        <Suburb>Townsview</Suburb>
+        <City>Johannesburg</City>
+        <Province>Gauteng</Province>
+        <PostalCode>2190</PostalCode>
+        <Latitude>-26.12759</Latitude>
+        <Longitude>28.07323</Longitude>
+      </Address>
+      <Actions>
+        <Actions>
+          <CreatedOn>2017-06-21T12:11:39.6306112+02:00</CreatedOn>
+          <Nature>Product</Nature>
+          <Reference>cheese01</Reference>
+          <InternalReference>pickingSlip81</InternalReference>
+          <ExpectedDeliveryDate>5/30/2017</ExpectedDeliveryDate>
+          <IsCashOnDelivery>No</IsCashOnDelivery>
+          <Unit>2</Unit>
+          <Weight>12</Weight>
+          <VolumetricMass>43</VolumetricMass>
+          <Pieces>10</Pieces>
+          <Pallets>1</Pallets>
+          <SpecialInstructions>Please handle with care</SpecialInstructions>
+          <AmountIncl>300</AmountIncl>
+          <AmountExcl>258</AmountExcl>
+          <HandlingUnit>
+            <HandlingUnit>
+              <CustomerReference>CustRef101</CustomerReference>
+              <Barcode>102103659</Barcode>
+              <Description>Box of Feta</Description>
+              <VolumetricMass>6</VolumetricMass>
+              <Volume>12</Volume>
+              <Weight>15</Weight>
+              <Quantity>150</Quantity>
+              <Dimensions>
+                <Width>10</Width>
+                <Height>12</Height>
+                <Length>8</Length>
+              </Dimensions>
+              <UnitOfMeasure>Box</UnitOfMeasure>
+            </HandlingUnit>
+          </HandlingUnit>
+        </Actions>
+      </Actions>
+    </Customer>
+  </Customers>
+</Route>
