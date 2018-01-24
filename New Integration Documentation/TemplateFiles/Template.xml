@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UploadRoute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://wwww.trackmatic.co.za/schemas">
+  <CreatedOn>2017-08-14T20:23:31.657</CreatedOn>
+  <DriverName></DriverName>
+  <Registration>BW65PCGP</Registration>														<!-- Null-->
+  <RouteName>BWH_Rivonia_20170814_BW65PCGP_313069</RouteName>								<!-- Null-->
+  <RouteReference>BWH_Rivonia_20170814_BW65PCGP_313069</RouteReference>						<!-- Null-->
+  <StartDate>2017-08-15T19:00:00</StartDate>												<!-- Null-->
+  <Stops>
+    <Stop>
+	  <Actions>																				<!-- Delivery Note info-->
+        <Action>
+          <ActionTypeName></ActionTypeName>													<!-- Service, delivey, CTC-->
+          <AmountEx>0</AmountEx>
+          <AmountIncl>0</AmountIncl>
+          <CustomerCode></CustomerCode>														
+          <CustomerReference></CustomerReference>											
+          <Direction>0</Direction>															<!-- 0=Outbound 1=Inbound -->
+          <ExpectedDeliveryDate>2017-08-15T19:00:00</ExpectedDeliveryDate>
+          <HandlingUnits>																	<!-- Line Items information(Leave Null if you do not have)-->
+            <HandlingUnit>
+              <Barcode></Barcode>
+              <CustomerReference></CustomerReference>
+              <Description></Description>
+              <Height>0</Height>
+              <Length>0</Length>
+              <Quantity>0</Quantity>
+              <UnitOfMeasure>0</UnitOfMeasure>
+              <Volume>0</Volume>
+              <VolumetricMass>0</VolumetricMass>
+              <Weight>0</Weight>
+              <Width>0</Width>
+            </HandlingUnit>
+          </HandlingUnits>
+          <InternalReference></InternalReference>
+          <IsCod></IsCod>
+          <Nature>0</Nature>																<!-- 0=Unknown 1=Product 2=Service -->
+          <Pallets>0</Pallets>
+          <Pieces>0</Pieces>																<!-- Parcels-->
+          <Reference>15A2025141</Reference>													
+          <SpecialInstructions>Fragile</SpecialInstructions>								
+          <Volume>0</Volume>
+          <VolumetricMass>0</VolumetricMass>												<!-- Cubes-->
+          <Weight>0</Weight>																<!-- Mass-->
+        </Action>
+      </Actions>
+      <SellTo>
+        <Name>BWH ROSSBURGH</Name>															
+        <Reference>15A2025141</Reference>													
+      </SellTo>
+      <Sequence>1</Sequence>																<!-- Order-->
+      <ShipTo>
+        <Address>
+          <BuildingName></BuildingName>
+          <City></City>																		<!-- Line 4-->
+          <MapCode></MapCode>
+          <PostalCode></PostalCode>															<!-- Postal Code-->
+          <Province></Province>
+          <Street></Street>																	<!-- Line 2-->
+          <StreetNo>Kempton Park</StreetNo>													<!-- Line 1-->
+          <SubDivisionNumber></SubDivisionNumber>
+          <Suburb></Suburb>																	<!-- Line 3-->
+          <UnitNo></UnitNo>
+        </Address>
+		<AddressId></AddressId>																<!-- Multiple Addresses for the same customer-->
+        <Contact>
+          <CellNo>0826512239</CellNo>
+          <Email>test@email.co.za</Email>
+          <FirstName>TestName</FirstName>
+          <LastName>TestSurname</LastName>
+          <TelNo>0113645212</TelNo>
+          <WorkNo></WorkNo>
+        </Contact>
+        <Mst>30</Mst>
+        <Name>BWH ROSSBURGH</Name>															<!--ShipTo Name-->
+        <Position>
+          <Latitude>-26.0999</Latitude>														<!-- Latitude-->
+          <Longitude>28.2213</Longitude>													<!-- Longitude-->
+        </Position>
+        <Reference>15A2025141</Reference>													<!-- ShipTo Reference-->	
+      </ShipTo>
+    </Stop>
+  </Stops>
+</UploadRoute>

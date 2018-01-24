@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Route xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <RouteName>Zone02</RouteName>
+  <Profile>1</Profile>
   <Sequence>1</Sequence>
   <StartTime>2017-06-21T12:11:39.6306112+02:00</StartTime>
   <StartDate>2017-06-21T12:11:39.6306112+02:00</StartDate>
@@ -31,7 +32,7 @@
         <Longitude>28.07323</Longitude>
       </Address>
       <Actions>
-        <Actions>
+        <Action>
           <CreatedOn>2017-06-21T12:11:39.6306112+02:00</CreatedOn>
           <Nature>Product</Nature>
           <Reference>cheese01</Reference>
@@ -63,7 +64,7 @@
               <UnitOfMeasure>Box</UnitOfMeasure>
             </HandlingUnit>
           </HandlingUnit>
-        </Actions>
+        </Action>
       </Actions>
     </Customer>
   </Customers>
