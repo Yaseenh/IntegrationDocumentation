@@ -3,6 +3,7 @@
   <DriverId>DriverID</DriverId>
   <DriverName>DriverName</DriverName>
   <Profile>360</Profile>
+  <Registration>VehicleReg</Registration>
   <RouteName>RouteName</RouteName>
   <RouteReference>RouteRef</RouteReference>
   <StartDateTime>2017-06-21T12:11:39.6306112</StartDateTime>
@@ -88,6 +89,5 @@
       </ShipTo>
     </Stop>
   </Stops>
-  <VehicleRegistration>VehicleReg</VehicleRegistration>
   <Zone>zone01</Zone>
 </Route>

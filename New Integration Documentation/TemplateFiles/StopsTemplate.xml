@@ -38,18 +38,10 @@
           <Weight>0</Weight>
         </Action>
       </Actions>
-      <Plan>
-        <PlannedStopArrivalTime>2017-06-21T12:11:39.6306112</PlannedStopArrivalTime>
-        <PlannedStopDepartureTime>2017-06-21T12:11:39.6306112</PlannedStopDepartureTime>
-        <PlannedStopOffloadDuration>30</PlannedStopOffloadDuration>
-        <PlannedTravelDistance>123.1</PlannedTravelDistance>
-        <PlannedTravelDuration>120</PlannedTravelDuration>
-      </Plan>
       <SellTo>
         <Name>SellToName</Name>
         <Reference>SellToRef</Reference>
       </SellTo>
-      <Sequence>1</Sequence>
       <ShipTo>
         <Address>
           <BuildingName>buildingName</BuildingName>
